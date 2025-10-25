@@ -32,7 +32,9 @@ models the price of a financial asset in the *Cox–Ross–Rubinstein (CRR)* mod
 ---
 
 The following figure shows the evolution of the risky asset in the CRR model:
-![CRR Model Tree (right for the image to prof. Knochenhauer](crr_model.png)
+![CRR Model Tree (rights for the image to prof. Knochenhauer](crr_model.png)
+*Image credit: Prof. Knochenhauer*
+
 
 ---
 
