@@ -1,4 +1,4 @@
-## Contnent of this repository
+## content of this repository
 This repository contains the Python script for the approximantion of the optimal strategy in the optimal investment problem using the Q-Learning
  algorithm within the Cox-Ross-Rubinstein model for the price evolution of a financial asset. It's possible to visualize the allocation for the learned portfolio allocations after 50,000, 500,000 and 5,000,000 episodes.
 
